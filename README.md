@@ -25,3 +25,8 @@ Open `data_collection_preprocessing.ipynb` and run the notebook from top to bott
 
 - Primary dataset: [1000 Sales Records - ExcelBIAnalytics](https://excelbianalytics.com/downloads-18-sample-csv-files-data-sets-for-testing-sales/)
 - Secondary metadata: [Country List - DataHub](https://datahub.io/core/country-list)
+
+## Other GitHub Projects
+
+- [Data Engineering & EDA Workshop](https://github.com/JohnBuni/data-engineering-eda)
+- [ML Programming Project 1](https://github.com/JohnBuni/MLProgramming_Project1)
